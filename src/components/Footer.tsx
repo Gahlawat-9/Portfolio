@@ -43,7 +43,7 @@ export default function Footer() {
         </a>
 
         <a
-          href="https://drive.google.com/file/d/1_kCIMnfkYTEP5FEoN0B0iKNbJ3CA7Ox2/view?usp=sharing"   // 👉 replace with your actual resume path or drive link
+          href="https://drive.google.com/file/d/1RIcIFzHxyRQKyrLac3cruYhoiS7zvu1m/view?usp=sharing"   // 👉 replace with your actual resume path or drive link
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 px-4 py-2 rounded-full bg-white/40 dark:bg-white/5 backdrop-blur-md border border-white/20 text-slate-400 hover:text-primary hover:shadow-md hover:shadow-primary/20 transition-all duration-300 hover:scale-105"
